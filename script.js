@@ -1,5 +1,4 @@
 document.getElementById('button').addEventListener('click', mathFunction)
-
 function mathFunction () {
   const num1 = parseInt(document.getElementById('input1').value)
   const num2 = parseInt(document.getElementById('input2').value)
